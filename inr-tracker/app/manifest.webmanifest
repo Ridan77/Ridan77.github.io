@@ -1,7 +1,7 @@
 {
   "id": "/inr-tracker/app/",
-  "name": "INR Tracker",
-  "short_name": "INR Tracker",
+  "name": "INR Tracker Dev",
+  "short_name": "INR Dev",
   "start_url": "/inr-tracker/app/",
   "scope": "/inr-tracker/app/",
   "display": "standalone",
