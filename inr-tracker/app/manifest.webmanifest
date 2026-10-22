@@ -5,7 +5,7 @@
   "start_url": "/inr-tracker/app/",
   "scope": "/inr-tracker/app/",
   "display": "standalone",
-  "orientation": "portrait",
+  "orientation": "any",
   "background_color": "#F8FAFC",
   "theme_color": "#2563EB",
   "icons": [
